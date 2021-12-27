@@ -16,7 +16,7 @@ The authors were able to sort out some common issues that come up with studying 
 
 ## References
 
-EuroSAT: A Novel Dataset and Deep Learning Benchmark for Land Use and Land Cover Classification
-https://docs.fast.ai/tutorial.vision.html
-https://github.com/phelber/eurosat
-https://www.dropbox.com/s/u83ae1efaah2w9o/UCMercedLanduse.zip
+- EuroSAT: A Novel Dataset and Deep Learning Benchmark for Land Use and Land Cover Classification
+- https://docs.fast.ai/tutorial.vision.html
+- https://github.com/phelber/eurosat
+- https://www.dropbox.com/s/u83ae1efaah2w9o/UCMercedLanduse.zip
